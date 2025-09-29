@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sakina!
 
-💻 **Full-Stack Developer** | Node.js, Vue.js, MongoDB, SQL, Python  
+💻 **Full-Stack Developer** | Node.js, Vue.js, MongoDB, SQL, Python , Html, Css
 🌱 Passionate about building interactive and scalable web applications  
 📫 Reach me at: youremail@example.com  
 
@@ -9,7 +9,7 @@
 ## 🌟 Skills
 
 **Backend**  
-- Node.js ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)   Node.js 
 - Express ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 - MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 - SQL ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
