@@ -45,8 +45,8 @@ Inventory and client management system with Node.js backend, MongoDB, and Vue.js
 ---
 
 ## 🔗 Connect with me
-- 🌐 GitHub: [ZohrahIbrahimey](https://github.com/SakinaEbrahimi)  
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sakina-ebrahimi)  
+- 🌐 GitHub: [SakinaEbrahimi](https://github.com/SakinaEbrahimi)  
+- 💼 LinkedIn: [SakinaEbrahimi](https://www.linkedin.com/in/sakina-ebrahimi)  
 - 📧 Email: sakinaebrahimi9@gmail.com  
 
 ---
