@@ -2,7 +2,7 @@
 
 💻 **Full-Stack Developer** | Node.js, Vue.js, MongoDB, SQL, Python , Html, Css
 🌱 Passionate about building interactive and scalable web applications  
-📫 Reach me at: youremail@example.com  
+📫 Reach me at: sakinaebrahimi9@gmail.com  
 
 ---
 
